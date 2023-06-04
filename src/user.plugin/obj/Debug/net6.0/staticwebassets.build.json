@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yqYb0AKBfMXc0/KQSfeOiPmRxHvH1FgqHjPWQ1ywT90=",
+  "Source": "user.plugin",
+  "BasePath": "_content/user.plugin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
