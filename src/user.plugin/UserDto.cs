@@ -1,7 +1,7 @@
 namespace User.plugin
 {
 
-    public class User
+    public class UserDto
     {
 
         public Guid id { get; set; }
@@ -9,7 +9,7 @@ namespace User.plugin
 
         public string password { get; set; }
 
-        public User(Guid id, string username, string password)
+        public UserDto(Guid id, string username, string password)
         {
             this.id = id;
             this.username = username;
